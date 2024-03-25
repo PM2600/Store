@@ -2,4 +2,4 @@
 
 
 
-基于sprintboot、mybais、mysql、vue
+基于Sprintboot MVC、mybais、mysql、vue
